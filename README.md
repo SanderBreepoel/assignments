@@ -12,3 +12,6 @@ This repository contains my assignments
 [assignment week 8](https://github.com/SanderBreepoel/assignments/blob/master/Assignment%20week%208.ipynb) 
 
 [Final Python Assignment](https://github.com/SanderBreepoel/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[Final R Assignment](https://github.com/SanderBreepoel/assignments/blob/master/OECD_R_exam.ipynb)
+
